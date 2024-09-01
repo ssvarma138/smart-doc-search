@@ -1,5 +1,5 @@
    # Python
-   __pycache__/
+   core/__pycache__/
    *.py[cod]
    *.so
 
@@ -23,4 +23,3 @@
    # OS-specific files
    .DS_Store
    Thumbs.db
-.env
