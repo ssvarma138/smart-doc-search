@@ -1,3 +1,4 @@
+# Note : I used GPT tools to create this code. created this project for learning purpose.
 # Smart Document Search
 
 Smart Document Search is a Django-based application that provides API endpoints for managing and searching PDF documents using AI-powered text embedding and search capabilities.
